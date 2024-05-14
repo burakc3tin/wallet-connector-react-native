@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728550399827",
+    "project_id": "wallet-2cad0",
+    "storage_bucket": "wallet-2cad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728550399827:android:c1f61b110ff1d047520ba6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qZB6ctZ0okcV3rTULH7R88WLuaXRyfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728550399827:android:67124d0240f4bad3520ba6",
+        "android_client_info": {
+          "package_name": "com.walletconnecter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qZB6ctZ0okcV3rTULH7R88WLuaXRyfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
